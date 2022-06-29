@@ -1,4 +1,4 @@
-variable contenido {
+variable content {
     type = string
     description = "file content"
 }
